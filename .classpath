@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/app/src/main/java"/>
+	<classpathentry kind="src" path="build/app/generated/source/buildConfig/debug"/>
+	<classpathentry kind="lib" path="android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/AssetManifest.bin.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/AssetManifest.json.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/FontManifest.json.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/fonts/MaterialIcons-Regular.otf.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/isolate_snapshot_data.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/NOTICES.Z.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/shaders/ink_sparkle.frag.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/vm_snapshot_data.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/flutter/debug/libs.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/project_dex_archive/debug/out/66d875dc050b26ffbf3519b52defe684d61144c009801f6f43ae0560e79209db_0.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/project_dex_archive/debug/out/66d875dc050b26ffbf3519b52defe684d61144c009801f6f43ae0560e79209db_1.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/project_dex_archive/debug/out/66d875dc050b26ffbf3519b52defe684d61144c009801f6f43ae0560e79209db_2.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/project_dex_archive/debug/out/66d875dc050b26ffbf3519b52defe684d61144c009801f6f43ae0560e79209db_3.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/project_dex_archive/debug/out/66d875dc050b26ffbf3519b52defe684d61144c009801f6f43ae0560e79209db_4.jar"/>
+	<classpathentry kind="lib" path="build/app/intermediates/project_dex_archive/debug/out/66d875dc050b26ffbf3519b52defe684d61144c009801f6f43ae0560e79209db_5.jar"/>
+	<classpathentry kind="output" path="build/app/intermediates/javac/debug/classes"/>
+</classpath>
